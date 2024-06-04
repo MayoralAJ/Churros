@@ -44,6 +44,10 @@ a:hover{
     text-align: center;
 }
 
+.logo{
+    width: 65px;
+}
+
 .coluna{
     width: 45%;
     display: inline-block;
@@ -65,7 +69,7 @@ a:hover{
 }
 
 .banner img{
-    width: 90%;
+    width: 80%;
 }
 
 .cardapio{
@@ -81,7 +85,7 @@ a:hover{
 
 .cardapio-categoria{
     text-align: left;
-    color: #ca3c3f;
+    color: #ee7a2d;
     font-size: 22px;
     margin-top: 50px;
 }
@@ -114,7 +118,7 @@ footer{
     text-align:center;
     padding: 50px;
     font-size: 14px;
-    color: #ffffff;
+    color: #f5f0eb;
     background-color: #333333;
 }
 
